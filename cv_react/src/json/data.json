@@ -1,6 +1,5 @@
 {
-    "contac":[
-        {
+    "contac": [{
             "name": "Phone",
             "value": "+57 322 300 45 05",
             "icon": false,
@@ -8,37 +7,36 @@
         },
         {
             "name": "Email",
-            "value":"leopoldodibiro@gmail.com",
-            "icon":false,
-            "url":"mailto:leopoldodibiro@gmail.com"
+            "value": "leopoldodibiro@gmail.com",
+            "icon": false,
+            "url": "mailto:leopoldodibiro@gmail.com"
         },
         {
             "name": "Twitter",
-            "value":"@LeopoldoDNZ",
+            "value": "@LeopoldoDNZ",
             "icon": "xcon-twitter",
             "url": "https://twitter.com/LeopoldoDNZ"
         },
         {
             "name": "Linkedin",
-            "value":"linkedin.com/in/leopoldo-ramon-montesinos-morenob19164121",
+            "value": "linkedin.com/in/leopoldo-ramon-montesinos-morenob19164121",
             "icon": "xcon-linkedin",
             "url": "https://linkedin.com/in/leopoldo-ramon-montesinos-morenob19164121"
         },
         {
             "name": "GitHub",
-            "value":"github.com/dibiro",
+            "value": "github.com/dibiro",
             "icon": false,
             "url": "https://github.com/dibiro"
         },
         {
             "name": "Skype",
-            "value":"leopoldo.montesinos1",
+            "value": "leopoldo.montesinos1",
             "icon": false,
             "url": false
         }
     ],
-    "languages":[
-        {
+    "languages": [{
             "name": "Spanish",
             "value": "100",
             "valueText": "Native"
@@ -49,8 +47,7 @@
             "valueText": "Intermediate"
         }
     ],
-    "skill":[
-        {
+    "skill": [{
             "name": "Docker",
             "value": "85"
         },
@@ -103,12 +100,24 @@
             "value": "40"
         }
     ],
-    "workExperience":[
+    "workExperience": [{
+            "name": "Tributi S.A.S",
+            "description": "Tributi is a Colombian venture that offers individuals the possibility of filing income tax returns online through a web page.",
+            "startDate": "01/2020",
+            "endDate": "present",
+            "skill": [
+                "Python/Django Backend Deleveloper",
+                "Google Cloud, Docker",
+                "Circle CI",
+                "Selenium",
+                "Mysql"
+            ]
+        },
         {
             "name": "On Business Consulting",
             "description": "This company focused on outsourcing, was responsible for creating web solutions and mobile applications, in the web section it was on React.js and Sap UI5 libraries and create api rest with python / django and sap HANA XS. It has also worked with Microsoft Cloud Azure, Azure DevOps, Git, Pipeline ...",
             "startDate": "01/2018",
-            "endDate": "present",
+            "endDate": "12/2019",
             "skill": [
                 "React.js, Redux, GraphQL",
                 "Python/Django Backend Deleveloper",
@@ -150,22 +159,18 @@
             ]
         }
     ],
-    "education":[
-        {
-            "name": "Universidad Naciona Experimental Romulo Gallegos",
-            "startDate": "01/2012",
-            "endDate": "06/20217",
-            "skill": [
-                "Informatics Engineering, (9 out of 10 semesters)"
-            ]
-        }
-    ],
-    "personalReferences":[
-        {
+    "education": [{
+        "name": "Universidad Naciona Experimental Romulo Gallegos",
+        "startDate": "01/2012",
+        "endDate": "06/20217",
+        "skill": [
+            "Informatics Engineering, (9 out of 10 semesters)"
+        ]
+    }],
+    "personalReferences": [{
             "name": "Diana Builes Morales",
             "description": "Administradora de Empresas. Especialista en Gerencia de Proyectos en Inteligencia de Negocios.",
-            "contac":[
-                {
+            "contac": [{
                     "name": "Phone",
                     "value": "+57 319 415 95 92",
                     "icon": false,
@@ -173,13 +178,13 @@
                 },
                 {
                     "name": "Email",
-                    "value":"diana.builes@outlook.com",
-                    "icon":false,
-                    "url":"mailto:diana.builes@outlook.com"
+                    "value": "diana.builes@outlook.com",
+                    "icon": false,
+                    "url": "mailto:diana.builes@outlook.com"
                 },
                 {
                     "name": "Linkedin",
-                    "value":"www.linkedin.com/in/dianabuiles/",
+                    "value": "www.linkedin.com/in/dianabuiles/",
                     "icon": "xcon-linkedin",
                     "url": "https://www.linkedin.com/in/dianabuiles/"
                 }
@@ -188,8 +193,7 @@
         {
             "name": "Augusto Gonzalez",
             "description": "Developer.",
-            "contac":[
-                {
+            "contac": [{
                     "name": "Phone",
                     "value": "+57 302 400 42 54",
                     "icon": false,
@@ -197,13 +201,13 @@
                 },
                 {
                     "name": "Email",
-                    "value":"aagg83556@hotmail.com",
-                    "icon":false,
-                    "url":"mailto:aagg83556@hotmail.com"
+                    "value": "aagg83556@hotmail.com",
+                    "icon": false,
+                    "url": "mailto:aagg83556@hotmail.com"
                 },
                 {
                     "name": "Linkedin",
-                    "value":"www.linkedin.com/in/augustoalegon/",
+                    "value": "www.linkedin.com/in/augustoalegon/",
                     "icon": "xcon-linkedin",
                     "url": "https://www.linkedin.com/in/augustoalegon/"
                 }
@@ -212,8 +216,7 @@
         {
             "name": "Jessika De Freitas",
             "description": "UI designer.",
-            "contac":[
-                {
+            "contac": [{
                     "name": "Phone",
                     "value": "+58 414 486 09 75",
                     "icon": false,
@@ -221,13 +224,13 @@
                 },
                 {
                     "name": "Email",
-                    "value":"lilijess.yo@gmail.com",
-                    "icon":false,
-                    "url":"mailto:lilijess.yo@gmail.com"
+                    "value": "lilijess.yo@gmail.com",
+                    "icon": false,
+                    "url": "mailto:lilijess.yo@gmail.com"
                 },
                 {
                     "name": "Linkedin",
-                    "value":"www.linkedin.com/in/jessidepin/",
+                    "value": "www.linkedin.com/in/jessidepin/",
                     "icon": "xcon-linkedin",
                     "url": "https://www.linkedin.com/in/jessidepin/"
                 }
